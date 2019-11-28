@@ -1,0 +1,7 @@
+aly8246-config:
+  server-config:
+    url: 192.168.1.1
+    port: 9999
+  other-config:
+    msg: 你好啊
+  id: 1999
